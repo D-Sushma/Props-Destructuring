@@ -84,11 +84,8 @@ export default function Header(props) {
               <div><img src={cartlogo} alt="img" /></div>
 
             </div>
-
-            {/* <Link to="./cartpage"> */}
-            <div style={{ fontWeight: "bold", fontSize: "14px", marginTop: "20px", color: "red" }}>Cart</div>
-            {/* </Link> */}
-          </div>
+               <div style={{ fontWeight: "bold", fontSize: "14px", marginTop: "20px", color: "red" }}>Cart</di
+           </div>
         </div>
       </div>
       {/* <!-- HEADER PART END --> */}
