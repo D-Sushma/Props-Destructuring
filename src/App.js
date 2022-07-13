@@ -1,7 +1,7 @@
 // PROPS in header.js ===================================
 // & DESTRUCTING in sbuheader.js ==========================================
 
-// PROP --> Prop id the way of passing information from one parent component to child component.
+// PROP --> Prop is the way of passing information from one parent component to child component.
 // destructing -->  is the way to write props in new ES6 varients.
 
 import './App.css';
