@@ -34,7 +34,7 @@ export default function Header(props) {
           </div>
 
           <div className="address-content">
-            {/* 1.3 props (data variable) put in as a prop after Hello --- */}
+            {/* 1.3 props (data variable) put in as a single var... after Hello --- */}
             {/* <div style={{ fontSize: "12px", color: "lightgray" }}>Hello {props.data}</div> */}
             
             {/* 2.3 props (data variable) pass as a multi var ----- */}
