@@ -1,4 +1,4 @@
-// functional component
+// functional component....
 
 import React from 'react'
 import './Header.css';
